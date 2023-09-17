@@ -112,6 +112,6 @@ async def ลิงก์( ctx, *, query):
 async def main():
     async with client:
         await load()
-        await client.start("MTA2OTY0NTQ2MDA1MjEyMzY2OA.GofwxB.sENK_1fVZuw_X4sJ1XBsZgIRbnbAJSEyr94Dmg")
+        await client.start("MTA2OTY0NTQ2MDA1MjEyMzY2OA.Gnd5q8.Pa9-fG6l7D8Y0Mof-AEmnrEYrvtMQ5WvzgLL5E")
 
 asyncio.run(main())
